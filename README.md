@@ -32,9 +32,9 @@ tenho grandes dificuldades em desenvolver APIS REST utilizando a arquitetura CQR
 dados (EntityFramework), agendamento de tarefas, tratamento de falhas e
 resiliência, autorização e autenticação.
 
-Comecei minha carreira de professor universitário na PUC-PR, logo depois de concluir o curso de Engenharia 
+Comecei minha carreira como professor na PUC-PR, logo depois de concluir o curso de Engenharia 
 em 1988. Minhas principais atividades docentes na PUC-PR foram voltadas aos cursos de Sistemas de Informação, 
-Ciência da Computação e Engenharia de Computação. Dentre essas atividades, destaco disciplinas ministradas de
+Ciência da Computação e Engenharia de Computação. Dentre essas atividades, destaco as disciplinas ministradas de
 programação (C, C++), algoritmos e estrutura de dados, compiladores, arquitetura e organização de computadores 
 e eletrônica digital. Durante os 19 anos de docência, a PUC-PR me oportunizou concluir tanto
 o curso de mestrado na UTFPR quanto o curso de doutorado na UFSC.
@@ -45,18 +45,17 @@ de Engenharia Mecatrônica e, mais tarde, também as coordenações dos
 cursos de Engenharia Elétrica e Engenharia Mecânica. Portanto, a coordenação de curso por 9 anos foi minha 
 principal atividade na Unit.
 
-
 <hr/>
 
 <h3>🔭 Com o que estou trabalhando agora?</h3>
 
 Durante minha permanência na coordenação de cursos da Unit, percebi que um grande problema das instituições 
-de ensino é a criação e manutenção de documentos - em particular - de Planos Pedagógicos de Curso (PPC). 
+de ensino é a criação e manutenção de documentos - em particular - de <b>Planos Pedagógicos de Curso</b> (PPC). 
 Um PPC é um importante instrumento que reflete a identidade e as direções intencionais de um curso (normalmente) 
 de longa duração, definindo ações educativas e as características necessárias ao cumprimento dos propósitos e 
 suas intencionalidades. Nele se encontra explicitado tanto a organização do curso como o trabalho pedagógico 
 na sua globalidade. Numa Instituição de Ensino Superior, por exemplo, cada curso ofertado deve ter seu próprio 
-PPC o qual deve estar permanentemente atualizado.
+PPC o qual deve ser permanentemente atualizado.
 
 Para a construção de um PPC são necessárias informações provenientes de diferentes fontes tais como 
 biblioteca, infraestrutura física, corpo docente, coordenação, Plano Pedagógico Institucional (PPI), 
@@ -99,12 +98,12 @@ oportunidade para:
 - Aprofundar meus conhecimentos de ambientes, ferramentas e recursos para a automatização da construção, 
 teste, implantação e orquestração de softwares. 
 
-- Trabalhar com prazer. 
-
 - Compartilhar conhecimentos e experiências. 
 
 - Suprir necessidades básicas para uma vida saudável fisicamente e mentalmente tanto para mim quanto 
 para minha família.
+
+- Trabalhar com prazer. 
 
 <hr/>
 
@@ -114,18 +113,18 @@ para minha família.
 
 - Moro em Curitiba onde nasci, mas já morei em Aracaju. 
 Adoro ambas as cidades, mas no futuro pretendo mudar para uma cidade menor, preferencialmente, 
-próxima às serras de Santa Catarina. Também não descarto morar no exterior futuramente.
-
-- Prefiro conhecer lugares que se destacam por sua natureza do que por suas cidades. 
-Minha esposa, entretanto, prefere as cidades. Então, o que fazer? Explorar a natureza dentro das cidades, é claro!
+próxima às serras de Santa Catarina. Também não descarto morar no exterior.
 
 - Gosto de desafios e me realizo ao resolver problemas, mas não gosto de criar problemas.
-
-- Meu doutorado foi uma conquista pessoal que me tornou uma pessoa melhor, porém, não melhor do que qualquer outro.
 
 - Independentemente do local, sou capaz de me concentrar durante horas quando 
 busco resolver algum problema de programação, mas preciso me isolar e me desligar do mundo por, 
 pelo menos, uma hora por dia.
+
+- Prefiro conhecer lugares que se destacam por sua natureza do que por suas cidades. 
+Minha esposa, entretanto, prefere as cidades. Então, o que fazer? Explorar a natureza dentro das cidades, é claro!
+
+- Meu doutorado foi uma conquista pessoal que me tornou uma pessoa melhor, porém, não melhor do que qualquer outro.
 
 - Quando posso, prefiro caminhar a andar de carro.
 
