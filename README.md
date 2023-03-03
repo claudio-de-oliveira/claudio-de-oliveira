@@ -1,11 +1,20 @@
 ## Olá, seja bem vindo ao meu perfil 👋
 
-
-<img src="claudio-de-oliveira/IMG-20211229-WA0114.jpg" width=100/>
+<img src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice02-4026456_113313.png" alt="Eletrônica" width="40" height="40" style="max-width:100%;" title="Eletrônica (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40" style="max-width:100%;" title="Linguagem C (Avançado)" ></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" alt="C++" width="40" height="40" style="max-width:100%;" title="Linguagem C++ (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" width="40" height="40" style="max-width:100%;" title="Linguagem C# (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/3403/PNG/512/api_icon_215617.png" alt="API" width="40" height="40" style="max-width:100%;" title="REST (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" width="40" height="40" style="max-width:100%;"  title="Docker (Médio)"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;" title="GitHub (Médio)"></img>
+<img src="https://cdn.icon-icons.com/icons2/3408/PNG/512/sql_icon_216977.png" alt="Sql Server" width="40" height="40" style="max-width:100%;"  title="SQL Server (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/3911/PNG/512/blazor_logo_icon_247458.png" alt="Blazor Pages" width="40" height="40" style="max-width:100%;"  title="Blazor (Avançado)"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="40" height="40" style="max-width:100%;" title="Bootstrap (Básico)"></img>
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" alt="Bootstrap" width="40" height="40" style="max-width:100%;" title="LaTeX (Avançado)"></img>
 
 <h3>💬 Quem sou eu?</h3>
 
-Eu sou o Claudio de Oliveira, Engenheiro Eletricista de formação e Cientista da Computação por vocação. 
+Claudio de Oliveira é o meu nome. Sou Engenheiro Eletricista de formação e Cientista da Computação por vocação. 
 Por 30 anos, de 1988 até 2020, dediquei-me a ensinar programação, construção de compiladores, arquitetura 
 de computadores, e outras disciplinas para milhares de estudantes. Foi uma grande carreira
 de professor, mas agora eu quero fazer o que realmente gosto de fazer e aplicar meus
@@ -37,6 +46,8 @@ cursos de Engenharia Elétrica e Engenharia Mecânica. Portanto, a coordenação
 principal atividade na Unit.
 
 
+<hr/>
+
 <h3>🔭 Com o que estou trabalhando agora?</h3>
 
 Durante minha permanência na coordenação de cursos da Unit, percebi que um grande problema das instituições 
@@ -60,6 +71,8 @@ direcionados a pedagogos e outros profissionais da educação que precisam, muit
 alterações de "última hora" antes de apresentá-los, por exemplo, aos órgãos de fiscalização ou avaliação.
 
 
+<hr/>
+
 <h3>🌱 O que estou estudando agora?</h3>
 
 Por trás do sistema <b>Praeceptor</b>, o qual é relativamente grande para uma única pessoa, estão 
@@ -71,6 +84,8 @@ destaco ``SQL Server``, ``EntityFrameworkCore``, ``Docker``, ``CQRS``, ``REST``,
 manipulação de erros (``ErrorOr``), agendamento de tarefas (``Quartz``), tratamento de falhas e resiliência (``Polly``), 
 autorização e autenticação (``IdentityServer4``), geração de documentos em <b>MsWord</b>® (``DocumentFormat.OpenXml``) etc.
 
+
+<hr/>
 
 <h3>🤔 O que estou procurando?</h3>
 
@@ -91,13 +106,14 @@ teste, implantação e orquestração de softwares.
 - Suprir necessidades básicas para uma vida saudável fisicamente e mentalmente tanto para mim quanto 
 para minha família.
 
+<hr/>
 
 <h3>⚡ Sobre mim ...</h3>
 
 - Sou casado e tenho três filhas já crescidas. 
 
 - Moro em Curitiba onde nasci, mas já morei em Aracaju. 
-Adoro ambas as cidades, mas no furuto pretendo mudar para uma cidade menor, preferencialmente, 
+Adoro ambas as cidades, mas no futuro pretendo mudar para uma cidade menor, preferencialmente, 
 próxima às serras de Santa Catarina. Também não descarto morar no exterior futuramente.
 
 - Prefiro conhecer lugares que se destacam por sua natureza do que por suas cidades. 
@@ -113,9 +129,13 @@ pelo menos, uma hora por dia.
 
 - Quando posso, prefiro caminhar a andar de carro.
 
-- Por que **clalulana** ? Quatro sílabas representando 4 mulheres: "**cla**" de Claudia (fiha 2), 
+- Nunca tomo remédios e nunca fiquei doente seriamente. 
+
+- Por que **clalulana** ? Quatro sílabas representando 4 mulheres: "**cla**" de Claudia (filha 2), 
 "**lu**" de Luisa (filha 1), "**la**" de Lais (esposa) e "**na**" de Nádia (filha 3).
 
+
+<hr/>
 
 <h3>📫 Como me contatar?</h3>
 
@@ -123,3 +143,6 @@ pelo menos, uma hora por dia.
 
 - Email: clalulana@gmail.com
 
+<!--
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=claudio-de-oliveira&count_private=true&theme=radical)
+-->
