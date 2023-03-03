@@ -14,7 +14,7 @@
 
 <h3>💬 Quem sou eu?</h3>
 
-Claudio de Oliveira é o meu nome. Sou Engenheiro Eletricista de formação e Cientista da Computação por vocação. 
+Sou Engenheiro Eletricista de formação e Cientista da Computação por vocação. 
 Por 30 anos, de 1988 até 2020, dediquei-me a ensinar programação, construção de compiladores, arquitetura 
 de computadores, e outras disciplinas para milhares de estudantes. Foi uma grande carreira
 de professor, mas agora eu quero fazer o que realmente gosto de fazer e aplicar meus
