@@ -1,5 +1,8 @@
 ## Olá, seja bem vindo ao meu perfil 👋
 
+
+<img src="claudio-de-oliveira/IMG-20211229-WA0114.jpg" width=100/>
+
 <h3>💬 Quem sou eu?</h3>
 
 Eu sou o Claudio de Oliveira, Engenheiro Eletricista de formação e Cientista da Computação por vocação. 
