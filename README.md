@@ -24,7 +24,7 @@ Tenho bastante experiência com as linguagens C, C++ e C# e pouca experiência c
 Java, JS e Typescript; como conheço bem a teoria e construção por detrás dos compiladores, 
 geralmente não tenho dificuldades em aprender novas linguagens. Ciente de
 que atualmente as exigências dos profissionais do desenvolvimento de software extrapolam 
-em muito o domínio de linguagens, nos dois últimos anos aprofundei meus
+em muito o domínio de linguagens, nos últimos anos aprofundei meus
 conhecimentos em SQL, metodologias e ferramentas para desenvolver aplicativos WEB
 tanto em frontend quanto backend. Particularmente, em aplicações backend, não
 tenho grandes dificuldades em desenvolver APIS REST utilizando a arquitetura CQRS
